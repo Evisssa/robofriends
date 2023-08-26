@@ -46,8 +46,8 @@ class App extends Component{
                }
       );
       return(!robots.length ?
-        <h1>Loading</h1> :    <div className="App">
-            <h1>RoboFriends</h1>
+        <h1>Loading</h1> :    <div className="App tc">
+            <h1 className="tc">RoboFriends</h1>
             <SearchBar searchChange={this.searchChange}/>
             
                <CardList robots ={filtered_robots}/>
