@@ -6,9 +6,9 @@ Welcome to RoboFriends!
 This small website is a fun and interactive platform that showcases a collection of friendly robots. Built using HTML, CSS, and JavaScript, RoboFriends allows you to browse through a variety of colorful robots, each with its unique personality. 🌟
 
 # Features:
-Robot Search: Easily search for your favorite robot by name. 🔍
-Responsive Design: Enjoy a seamless experience across various devices and screen sizes. 📱💻
-Dynamic Content: Explore different robot profiles generated dynamically. 🎨
+ - Robot Search: Easily search for your favorite robot by name. 🔍
+ - Responsive Design: Enjoy a seamless experience across various devices and screen sizes. 📱💻
+ - Dynamic Content: Explore different robot profiles generated dynamically. 🎨
 
 # How to Use:
 Clone the repository: git clone https://github.com/evisssa/robofriends.git
